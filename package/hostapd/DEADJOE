@@ -1,0 +1,28 @@
+
+*** These modified files were found in JOE when it aborted on Wed Oct 29 16:57:10 2014
+*** JOE was aborted by UNIX signal 1
+
+*** Datei '(Unbenannt)'
+usb
+host
+mentor
+dr_mode
+dr_mode
+error
+m
+mjpeg
+oper40
+HT40
+
+*** Datei '(Unbenannt)'
+../shm_data/shm_data.c
+test.c
+rcS
+mjpg-streamer/plugins/input_uvc/input_uvc.c
+ap/hw_features.c:
+ap/hw_features.c
+ap/hw_features.c
+Config.in
+hostapd.mk
+Config.in
+hostapd.mk

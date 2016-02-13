@@ -1,0 +1,39 @@
+#!/bin/sh
+
+uuencode=0
+binary=1
+
+TAR_PARAMETERS="-C / --exclude=./opt/knobloch --exclude=./etc/rootpwd.enc --exclude=./etc/init.d/wlan_ap_wpa2psk --exclude=./etc/init.d/bt_defaultkey -xzvf -"
+
+untar_payload ()
+{
+	match=$(grep -n -m 1 '^PAYLOAD:$' $0 | cut -d ':' -f 1)
+	payload_start=$((match + 1))
+	if [[ $binary -ne 0 ]]; then
+		tail -n +$payload_start $0 | tar $TAR_PARAMETERS
+	fi
+	if [[ $uuencode -ne 0 ]]; then
+		tail -n +$payload_start $0 | uudecode | tar $TAR_PARAMETERS
+	fi
+}
+
+##read -p "Install files? " ans
+##if [[ "${ans:0:1}"  ||  "${ans:0:1}" ]]; then
+##	untar_payload
+	# Do remainder of install steps.
+##fi
+
+## --- Commands to install
+
+## remove wrong wpa2psk filename and save elder settings
+if [ -f /etc/init.d/wlan_ap_wpa2pki ]; then
+	cp /etc/init.d/wlan_ap_wpa2pki /etc/init.d/wlan_ap_wpa2psk
+	rm /etc/init.d/wlan_ap_wpa2pki
+fi
+
+untar_payload
+sync
+sync
+
+exit 0
+
