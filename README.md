@@ -1,3 +1,14 @@
+FT-TXT
+======
+
+This is the open source part of the [TXT Controller Open Source
+Archiv](http://www.fischertechnik.de/ResourceImage.aspx?raid=8400).
+
+Currently missing is the whole board/knobloch/ tree from that archive due to unknown licensing.
+
+Original buildroot README
+=========================
+
 To build and use the buildroot stuff, do the following:
 
 1) run 'make menuconfig'
