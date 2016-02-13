@@ -6,6 +6,9 @@ Archiv](http://www.fischertechnik.de/ResourceImage.aspx?raid=8400).
 
 Currently missing is the whole board/knobloch/ tree from that archive due to unknown licensing.
 
+See the [Wiki](https://github.com/ftCommunity/ft-TXT/wiki) for details
+and how to [setup your TXT to boot from SD card](https://github.com/ftCommunity/ft-TXT/wiki/BootFromSD).
+
 Original buildroot README
 =========================
 
