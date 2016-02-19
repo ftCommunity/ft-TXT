@@ -11,12 +11,20 @@ Build everything
 Download the [TXT Controller Open Source Archive](http://www.fischertechnik.de/ResourceImage.aspx?raid=8400) and copy its ```board/knobloch/TXT/rootfs``` tree into the matching part of your branch of this repository.
 
 Then type
-```make```
+```
+make
+```
 
 This will take an hour or two to download and build the linux
-components for the root file system.
+components for the root file system. By default a setup similar to the
+one that your TXT shipped with will be built.
 
+Once this finished run the ```sudo ./MakeSD.sh``` shell script to prepare
+an SD card. By default this is using ```/dev/sdd```. Please adjust this
+to match your SD card. Otherwise you might format your hard drive.
 
+Finally use ```sudo CopyToSD.sh``` to populate the SD card with the
+previously generate file system. Again check the device file.
 
-See the [Wiki](https://github.com/ftCommunity/ft-TXT/wiki) for details
-and how to [setup your TXT to boot from SD card](https://github.com/ftCommunity/ft-TXT/wiki/BootFromSD).
+To prepare your TXT to be able to boot from SD card please read in the
+wiki [setup your TXT to boot from SD card](https://github.com/ftCommunity/ft-TXT/wiki/BootFromSD).
