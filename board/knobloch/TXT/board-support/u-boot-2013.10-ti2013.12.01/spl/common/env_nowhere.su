@@ -1,0 +1,2 @@
+env_nowhere.c:20:6:env_relocate_spec	0	static
+env_nowhere.c:29:5:env_init	0	static

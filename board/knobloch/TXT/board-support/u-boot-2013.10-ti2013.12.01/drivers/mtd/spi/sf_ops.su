@@ -1,0 +1,8 @@
+sf_ops.c:80:5:spi_flash_cmd_wait_ready	48	static
+sf_ops.c:125:5:spi_flash_write_common	40	static
+sf_ops.c:26:5:spi_flash_cmd_write_status	32	static
+sf_ops.c:166:5:spi_flash_cmd_erase_ops	48	static
+sf_ops.c:203:5:spi_flash_cmd_write_ops	56	static
+sf_ops.c:244:5:spi_flash_read_common	32	static
+sf_ops.c:267:5:spi_flash_cmd_read_ops	48	static
+sf_ops.c:324:5:spi_flash_set_qeb_mxic	32	static

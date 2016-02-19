@@ -1,0 +1,11 @@
+io.c:277:13:erase_callback	0	static
+io.c:291:12:do_sync_erase	112	static
+io.c:126:5:ubi_io_read	64	static
+io.c:208:5:ubi_io_write	48	static
+io.c:462:5:ubi_io_sync_erase	40	static
+io.c:498:5:ubi_io_is_bad	16	static
+io.c:527:5:ubi_io_mark_bad	16	static
+io.c:619:5:ubi_io_read_ec_hdr	40	static
+io.c:727:5:ubi_io_write_ec_hdr	24	static
+io.c:893:5:ubi_io_read_vid_hdr	48	static
+io.c:1002:5:ubi_io_write_vid_hdr	24	static

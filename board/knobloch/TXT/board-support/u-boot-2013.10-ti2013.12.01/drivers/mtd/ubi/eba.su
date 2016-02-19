@@ -1,0 +1,12 @@
+eba.c:88:32:ltree_lookup.isra.7	0	static
+eba.c:127:32:ltree_add_entry	24	static
+eba.c:300:13:leb_write_unlock	16	static
+eba.c:216:13:leb_read_unlock	16	static
+eba.c:331:5:ubi_eba_unmap_leb	24	static
+eba.c:377:5:ubi_eba_read_leb	56	static
+eba.c:601:5:ubi_eba_write_leb	64	static
+eba.c:732:5:ubi_eba_write_leb_st	56	static
+eba.c:847:5:ubi_eba_atomic_leb_change	56	static
+eba.c:965:5:ubi_eba_copy_leb	56	static
+eba.c:1143:5:ubi_eba_init_scan	56	static
+eba.c:1233:6:ubi_eba_close	16	static

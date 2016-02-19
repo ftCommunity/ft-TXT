@@ -1,0 +1,7 @@
+ubifs.c:37:12:gzip_decompress	16	static
+ubifs.c:376:22:ubifs_findfile	520	static
+ubifs.c:81:5:ubifs_decompress	32	static
+ubifs.c:522:12:read_block	56	static
+ubifs.c:139:12:ubifs_compressors_init	0	static
+ubifs.c:463:5:ubifs_ls	144	static
+ubifs.c:680:5:ubifs_load	72	static

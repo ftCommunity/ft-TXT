@@ -1,0 +1,9 @@
+crc7.o: crc7.c \
+ /home/ru/Knobloch/wrk/BuildRoot/ft-TXT/board/knobloch/TXT/board-support/u-boot-2013.10-ti2013.12.01/include/linux/types.h \
+ /home/ru/Knobloch/wrk/BuildRoot/ft-TXT/board/knobloch/TXT/board-support/u-boot-2013.10-ti2013.12.01/include/linux/config.h \
+ /home/ru/Knobloch/wrk/BuildRoot/ft-TXT/board/knobloch/TXT/board-support/u-boot-2013.10-ti2013.12.01/include/linux/posix_types.h \
+ /home/ru/Knobloch/wrk/BuildRoot/ft-TXT/board/knobloch/TXT/board-support/u-boot-2013.10-ti2013.12.01/include/linux/stddef.h \
+ /home/ru/Knobloch/wrk/BuildRoot/ft-TXT/board/knobloch/TXT/board-support/u-boot-2013.10-ti2013.12.01/include/asm/posix_types.h \
+ /home/ru/Knobloch/wrk/BuildRoot/ft-TXT/board/knobloch/TXT/board-support/u-boot-2013.10-ti2013.12.01/include/asm/types.h \
+ /home/ru/Knobloch/wrk/BuildRoot/ft-TXT/output/host/opt/ext-toolchain/lib/gcc/arm-linux-gnueabihf/4.9.1/include/stdbool.h \
+ /home/ru/Knobloch/wrk/BuildRoot/ft-TXT/board/knobloch/TXT/board-support/u-boot-2013.10-ti2013.12.01/include/linux/crc7.h

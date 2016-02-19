@@ -1,0 +1,16 @@
+dfu.c:96:12:dfu_write_buffer_drain	32	static
+dfu.c:23:6:dfu_reset	0	static
+dfu.c:28:6:dfu_trigger_reset	0	static
+dfu.c:70:16:dfu_free_buf	8	static
+dfu.c:77:16:dfu_get_buf	16	static
+dfu.c:124:5:dfu_write	40	static
+dfu.c:265:5:dfu_read	40	static
+dfu.c:363:6:dfu_free_entities	8	static
+dfu.c:376:5:dfu_config_entities	40	static
+dfu.c:44:5:dfu_init_env_entities	16	static
+dfu.c:401:13:dfu_get_dev_type	32	static
+dfu.c:407:13:dfu_get_layout	40	static
+dfu.c:414:6:dfu_show_entities	24	static
+dfu.c:427:5:dfu_get_alt_number	0	static
+dfu.c:432:20:dfu_get_entity	0	static
+dfu.c:444:5:dfu_get_alt	16	static

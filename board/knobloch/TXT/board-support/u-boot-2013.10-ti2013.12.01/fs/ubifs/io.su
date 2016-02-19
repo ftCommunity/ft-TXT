@@ -1,0 +1,5 @@
+io.c:60:6:ubifs_ro_mode	0	static
+io.c:94:5:ubifs_check_node	32	static
+io.c:175:6:ubifs_pad	16	static
+io.c:236:6:ubifs_prepare_node	40	static
+io.c:272:5:ubifs_read_node	56	static

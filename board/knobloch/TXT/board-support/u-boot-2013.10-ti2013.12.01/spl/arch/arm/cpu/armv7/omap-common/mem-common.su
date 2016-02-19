@@ -1,0 +1,2 @@
+mem-common.c:53:6:enable_gpmc_cs_config	24	static
+mem-common.c:76:6:gpmc_init	48	static

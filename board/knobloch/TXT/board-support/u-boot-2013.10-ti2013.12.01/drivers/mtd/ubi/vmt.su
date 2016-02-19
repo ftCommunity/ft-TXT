@@ -1,0 +1,6 @@
+vmt.c:120:13:vol_release	0	static
+vmt.c:198:5:ubi_create_volume	232	static
+vmt.c:405:5:ubi_remove_volume	40	static
+vmt.c:485:5:ubi_resize_volume	216	static
+vmt.c:609:5:ubi_add_volume	8	static
+vmt.c:667:6:ubi_free_volume	0	static

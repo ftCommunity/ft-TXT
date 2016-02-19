@@ -1,0 +1,2 @@
+utils.c:8:13:do_cancel_out	24	static
+utils.c:24:6:cancel_out	16	static

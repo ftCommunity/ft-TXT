@@ -1,0 +1,15 @@
+recovery.c:43:12:is_empty	0	static
+recovery.c:71:12:get_master_node	56	static
+recovery.c:1025:12:add_ino	32	static
+recovery.c:342:12:is_last_write	4	static
+recovery.c:1060:27:find_ino.isra.4	0	static
+recovery.c:795:12:recover_head	32	static
+recovery.c:390:13:clean_buf.isra.6	32	static
+recovery.c:198:5:ubifs_recover_master_node	48	static
+recovery.c:315:5:ubifs_write_rcvrd_mst_node	40	static
+recovery.c:531:24:ubifs_recover_leb	72	static
+recovery.c:739:24:ubifs_recover_log_leb	48	static
+recovery.c:854:5:ubifs_recover_inl_heads	16	static
+recovery.c:981:5:ubifs_clean_lebs	48	static
+recovery.c:1117:5:ubifs_recover_size_accum	40	static
+recovery.c:1169:5:ubifs_recover_size	40	static

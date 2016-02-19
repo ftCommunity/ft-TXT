@@ -1,0 +1,10 @@
+scan.c:102:12:validate_vid_hdr	8	static
+scan.c:61:12:add_to_list	16	static
+scan.c:390:5:ubi_scan_add_used	96	static
+scan.c:557:25:ubi_scan_find_sv	0	static
+scan.c:587:22:ubi_scan_find_seb	0	static
+scan.c:613:6:ubi_scan_rm_volume	24	static
+scan.c:644:5:ubi_scan_erase_peb	32	static
+scan.c:689:22:ubi_scan_get_free_peb	32	static
+scan.c:1023:6:ubi_scan_destroy_si	24	static
+scan.c:894:23:ubi_scan	64	static

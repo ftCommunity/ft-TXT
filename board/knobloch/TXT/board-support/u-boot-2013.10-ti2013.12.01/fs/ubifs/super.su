@@ -1,0 +1,12 @@
+super.c:44:12:sb_set	0	static
+super.c:1011:12:sb_test	0	static
+super.c:521:13:free_orphans	16	static
+super.c:59:21:sget	24	static
+super.c:126:15:iget_locked	16	static
+super.c:141:5:ubifs_iput	8	static
+super.c:152:6:iput	16	static
+super.c:182:15:ubifs_iget	48	static
+super.c:827:6:ubifs_umount	16	static
+super.c:1018:12:ubifs_get_sb	144	static
+super.c:1083:12:ubifs_init	0	static
+super.c:1167:5:ubifs_mount	32	static

@@ -1,0 +1,4 @@
+key.h:61:24:key_r5_hash	0	static
+key.h:81:24:key_test_hash	16	static
+sb.c:197:23:ubifs_read_sb_node	24	static
+sb.c:224:5:ubifs_read_superblock	64	static

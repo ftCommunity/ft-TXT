@@ -1,0 +1,5 @@
+cmd_eeprom.c:109:5:eeprom_read	40	static
+cmd_eeprom.c:183:5:eeprom_write	40	static
+cmd_eeprom.c:361:1:eeprom_probe	0	static
+cmd_eeprom.c:386:6:eeprom_init	0	static
+cmd_eeprom.c:46:5:do_eeprom	32	static

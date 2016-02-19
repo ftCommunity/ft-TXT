@@ -1,0 +1,5 @@
+musb_dsps.c:160:13:dsps_musb_enable	0	static
+musb_dsps.c:191:13:dsps_musb_disable	0	static
+musb_dsps.c:418:12:dsps_musb_init	16	static
+musb_dsps.c:485:12:dsps_musb_exit	8	static
+musb_dsps.c:302:20:dsps_interrupt	16	static

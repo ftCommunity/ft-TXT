@@ -1,0 +1,2 @@
+cmd_lcd.c:45:13:SetWindowRGB.constprop	8	static
+cmd_lcd.c:388:12:do_lcd	32	static

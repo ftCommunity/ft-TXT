@@ -1,0 +1,9 @@
+env_flags.c:171:13:skip_num	4	static
+env_flags.c:422:12:clear_flags	0	static
+env_flags.c:453:12:on_flags	16	static
+env_flags.c:107:24:env_flags_parse_vartype	16	static
+env_flags.c:129:26:env_flags_parse_varaccess	16	static
+env_flags.c:432:12:set_flags	56	static
+env_flags.c:151:26:env_flags_parse_varaccess_from_binflags	0	static
+env_flags.c:403:6:env_flags_init	24	static
+env_flags.c:476:5:env_flags_validate	48	static

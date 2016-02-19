@@ -1,0 +1,2 @@
+orphan.c:80:5:ubifs_clear_orphans	32	static
+orphan.c:298:5:ubifs_mount_orphans	80	static

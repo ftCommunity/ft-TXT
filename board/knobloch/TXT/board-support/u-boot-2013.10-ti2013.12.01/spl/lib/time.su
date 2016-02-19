@@ -1,0 +1,2 @@
+time.c:17:6:udelay	16	static
+time.c:29:6:mdelay	8	static

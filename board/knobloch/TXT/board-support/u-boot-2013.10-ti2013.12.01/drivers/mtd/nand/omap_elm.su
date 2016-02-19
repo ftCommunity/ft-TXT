@@ -1,0 +1,4 @@
+omap_elm.c:125:5:elm_check_error	8	static
+omap_elm.c:175:5:elm_config	0	static
+omap_elm.c:203:6:elm_reset	0	static
+omap_elm.c:221:6:elm_init	0	static

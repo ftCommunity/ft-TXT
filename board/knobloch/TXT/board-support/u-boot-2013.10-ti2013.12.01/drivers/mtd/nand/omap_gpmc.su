@@ -1,0 +1,9 @@
+omap_gpmc.c:37:13:omap_nand_hwcontrol	0	static
+omap_gpmc.c:194:13:omap_enable_hwecc	12	static
+omap_gpmc.c:277:12:omap_calculate_ecc	12	static
+omap_gpmc.c:456:12:omap_read_page_bch	72	static
+omap_gpmc.c:99:27:omap_correct_data	8	static
+omap_gpmc.c:176:6:omap_reverse_list	4	static
+omap_gpmc.c:368:12:omap_correct_data_bch	104	static
+omap_gpmc.c:770:20:omap_nand_switch_ecc	40	static
+omap_gpmc.c:827:5:board_nand_init	24	static

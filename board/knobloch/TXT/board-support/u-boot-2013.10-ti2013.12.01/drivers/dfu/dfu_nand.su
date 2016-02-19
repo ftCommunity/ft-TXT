@@ -1,0 +1,5 @@
+dfu_nand.c:134:12:dfu_flush_medium_nand	64	static
+dfu_nand.c:22:12:nand_block_op	104	static
+dfu_nand.c:100:12:dfu_write_medium_nand	8	static
+dfu_nand.c:117:12:dfu_read_medium_nand	8	static
+dfu_nand.c:165:5:dfu_fill_entity_nand	88	static

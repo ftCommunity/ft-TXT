@@ -1,0 +1,2 @@
+emif4.c:22:5:dram_init	8	static
+emif4.c:31:6:dram_init_banksize	0	static

@@ -1,0 +1,2 @@
+spl_ymodem.c:20:12:getcymodem	8	static
+spl_ymodem.c:26:6:spl_ymodem_load_image	1064	static

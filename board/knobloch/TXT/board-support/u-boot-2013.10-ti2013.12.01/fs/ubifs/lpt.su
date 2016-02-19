@@ -1,0 +1,17 @@
+bitops.h:48:19:generic_fls	0	static
+lpt.c:290:12:calc_nnode_num_from_parent.isra.1	0	static
+lpt.c:315:12:calc_pnode_num_from_parent.isra.2	4	static
+lpt.c:136:5:ubifs_calc_lpt_geom	64	static
+lpt.c:169:10:ubifs_unpack_bits	16	static
+lpt.c:410:12:check_lpt_type	16	static
+lpt.c:383:12:check_lpt_crc	40	static
+lpt.c:236:6:ubifs_add_lpt_dirt	0	static
+lpt.c:251:6:ubifs_add_nnode_dirt	8	static
+lpt.c:885:28:dirty_cow_nnode	16	static
+lpt.c:469:5:ubifs_unpack_nnode	32	static
+lpt.c:635:5:ubifs_read_nnode	48	static
+lpt.c:793:21:ubifs_get_nnode	8	static
+lpt.c:819:21:ubifs_get_pnode	72	static
+lpt.c:845:22:ubifs_lpt_lookup	24	static
+lpt.c:979:22:ubifs_lpt_lookup_dirty	32	static
+lpt.c:1094:5:ubifs_lpt_init	48	static

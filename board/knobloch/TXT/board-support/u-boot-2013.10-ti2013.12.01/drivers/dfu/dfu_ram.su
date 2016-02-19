@@ -1,0 +1,3 @@
+dfu_ram.c:38:12:dfu_write_medium_ram	24	static
+dfu_ram.c:44:12:dfu_read_medium_ram	32	static
+dfu_ram.c:55:5:dfu_fill_entity_ram	40	static

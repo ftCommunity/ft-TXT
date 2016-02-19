@@ -1,0 +1,7 @@
+sys_info.c:27:5:get_cpu_rev	0	static
+sys_info.c:41:5:get_cpu_type	0	static
+sys_info.c:56:5:get_board_rev	0	static
+sys_info.c:64:5:get_device_type	0	static
+sys_info.c:74:5:get_sysboot_value	0	static
+sys_info.c:125:5:am335x_get_efuse_mpu_max_freq	0	static
+sys_info.c:158:5:am335x_get_tps65910_mpu_vdd	0	static

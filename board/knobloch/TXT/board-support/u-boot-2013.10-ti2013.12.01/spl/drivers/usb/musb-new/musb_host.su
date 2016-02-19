@@ -1,0 +1,8 @@
+musb_host.c:139:13:musb_h_ep0_flush_fifo	24	static
+musb_host.c:115:13:musb_h_tx_flush_fifo	24	static
+musb_host.c:214:1:musb_start_urb	72	static
+musb_host.c:365:13:musb_advance_schedule	32	static
+musb_host.c:990:13:musb_h_ep0_irq	32	static
+musb_host.c:1128:6:musb_host_tx	48	static
+musb_host.c:1457:6:musb_host_rx	32	static
+musb_host.c:1938:5:musb_urb_enqueue	72	static

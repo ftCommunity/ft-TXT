@@ -1,0 +1,2 @@
+lzo1x_decompress.c:119:5:lzo1x_decompress_safe	32	static
+lzo1x_decompress.c:65:5:lzop_decompress	48	static

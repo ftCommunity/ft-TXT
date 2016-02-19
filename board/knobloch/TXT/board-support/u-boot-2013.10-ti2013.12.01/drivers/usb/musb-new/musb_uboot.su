@@ -1,0 +1,12 @@
+musb_uboot.c:20:13:musb_host_complete_urb	0	static
+musb_uboot.c:29:20:construct_urb	40	static
+musb_uboot.c:63:12:submit_urb.constprop	16	static
+musb_uboot.c:85:5:submit_control_msg	24	static
+musb_uboot.c:99:5:submit_bulk_msg	24	static
+musb_uboot.c:107:5:submit_int_msg	24	static
+musb_uboot.c:115:5:usb_lowlevel_init	16	static
+musb_uboot.c:151:5:usb_lowlevel_stop	8	static
+musb_uboot.c:166:5:usb_gadget_handle_interrupts	0	static
+musb_uboot.c:175:5:usb_gadget_register_driver	16	static
+musb_uboot.c:205:5:usb_gadget_unregister_driver	0	static
+musb_uboot.c:212:5:musb_register	8	static

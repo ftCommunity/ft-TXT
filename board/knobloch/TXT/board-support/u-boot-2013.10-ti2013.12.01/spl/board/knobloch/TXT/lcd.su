@@ -1,0 +1,3 @@
+lcd.c:45:6:LcdInit	32	static
+lcd.c:260:6:SetWindowSize	4	static
+lcd.c:222:6:ClearWindowRGB	16	static

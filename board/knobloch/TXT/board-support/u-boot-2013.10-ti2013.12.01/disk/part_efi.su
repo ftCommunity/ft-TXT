@@ -1,0 +1,12 @@
+part_efi.c:52:14:print_efiname	4	static
+part_efi.c:66:13:uuid_string	24	static
+part_efi.c:697:12:is_pte_valid	24	static
+part_efi.c:250:12:string_uuid	56	static
+part_efi.c:543:12:is_gpt_valid.constprop	48	static
+part_efi.c:100:6:print_part_efi	104	dynamic
+part_efi.c:146:5:get_partition_info_efi	40	dynamic
+part_efi.c:196:5:test_part_efi	16	dynamic
+part_efi.c:296:5:write_gpt_table	32	static
+part_efi.c:354:5:gpt_fill_pte	56	static
+part_efi.c:427:5:gpt_fill_header	8	static
+part_efi.c:449:5:gpt_restore	32	static

@@ -1,0 +1,9 @@
+board.c:57:12:read_eeprom	32	static
+board.c:206:6:am33xx_spl_board_init	96	static
+board.c:259:27:get_dpll_ddr_params	88	static
+board.c:271:6:set_uart_mux_conf	0	static
+board.c:293:6:set_mux_conf_regs	88	static
+board.c:303:6:sdram_init	96	static
+board.c:342:5:board_init	8	static
+board.c:352:5:board_late_init	112	static
+board.c:463:5:board_eth_init	96	static

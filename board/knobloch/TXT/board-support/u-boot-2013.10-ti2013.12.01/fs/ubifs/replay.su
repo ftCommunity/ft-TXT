@@ -1,0 +1,3 @@
+replay.c:331:12:insert_node	40	static
+replay.c:460:5:ubifs_validate_entry	24	static
+replay.c:1005:5:ubifs_replay_journal	152	static

@@ -1,0 +1,15 @@
+cmd_bootm.c:1445:13:copy_args	24	static
+cmd_bootm.c:1095:12:image_info	16	static
+cmd_bootm.c:1048:5:do_bootd	8	static
+cmd_bootm.c:1572:12:do_bootm_rtems	8	static
+cmd_bootm.c:1642:12:do_bootm_plan9	24	static
+cmd_bootm.c:1463:12:do_bootm_netbsd	40	static
+cmd_bootm.c:1077:12:do_iminfo	24	static
+cmd_bootm.c:296:12:bootm_find_ramdisk.isra.17	16	static
+cmd_bootm.c:312:12:bootm_find_fdt	32	static
+cmd_bootm.c:164:13:__arch_preboot_os	0	static
+cmd_bootm.c:604:12:do_bootm_states.isra.20.constprop	72	static
+cmd_bootm.c:762:5:do_bootm	48	static
+cmd_bootm.c:811:5:bootm_maybe_autostart	24	static
+cmd_bootm.c:1780:12:bootz_setup	8	static
+cmd_bootm.c:1832:5:do_bootz	48	static

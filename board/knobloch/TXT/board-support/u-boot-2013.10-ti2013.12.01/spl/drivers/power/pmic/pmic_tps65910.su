@@ -1,0 +1,2 @@
+pmic_tps65910.c:17:5:tps65910_set_i2c_control	24	static
+pmic_tps65910.c:41:5:tps65910_voltage_update	32	static

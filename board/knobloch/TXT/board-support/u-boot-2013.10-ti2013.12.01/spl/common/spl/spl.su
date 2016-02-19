@@ -1,0 +1,5 @@
+spl.c:59:13:spl_board_prepare_for_linux	0	static
+spl.c:64:6:spl_parse_image_header	0	static
+spl.c:104:24:jump_to_image_no_args	8	static
+spl.c:132:6:board_init_r	8	static
+spl.c:238:6:preloader_console_init	8	static

@@ -1,0 +1,7 @@
+board.c:89:13:am33xx_otg0_set_phy_power	0	static
+board.c:108:13:am33xx_otg1_set_phy_power	0	static
+board.c:127:5:arch_misc_init	8	static
+board.c:146:13:am33xx_spl_board_init	8	static
+board.c:152:13:rtc32k_enable	0	static
+board.c:189:6:s_init	8	static
+board.c:231:6:enable_caches	0	static

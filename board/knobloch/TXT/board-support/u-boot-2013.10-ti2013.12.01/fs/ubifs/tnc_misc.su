@@ -1,0 +1,6 @@
+tnc_misc.c:40:21:ubifs_tnc_levelorder_next	16	static
+tnc_misc.c:135:5:ubifs_search_zbranch	20	static
+tnc_misc.c:179:21:ubifs_tnc_postorder_first	0	static
+tnc_misc.c:203:21:ubifs_tnc_postorder_next	0	static
+tnc_misc.c:368:21:ubifs_load_znode	64	static
+tnc_misc.c:410:5:ubifs_tnc_read_node	24	static

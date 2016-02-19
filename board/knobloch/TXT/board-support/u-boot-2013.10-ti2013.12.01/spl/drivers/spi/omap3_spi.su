@@ -1,0 +1,13 @@
+omap3_spi.c:43:13:omap3_spi_write_chconf	0	static
+omap3_spi.c:57:6:spi_init	0	static
+omap3_spi.c:62:19:spi_setup_slave	24	static
+omap3_spi.c:135:6:spi_free_slave	0	static
+omap3_spi.c:142:5:spi_claim_bus	8	static
+omap3_spi.c:218:6:spi_release_bus	0	static
+omap3_spi.c:226:5:omap3_spi_write	32	static
+omap3_spi.c:271:5:omap3_spi_read	32	static
+omap3_spi.c:317:5:omap3_spi_txrx	32	static
+omap3_spi.c:373:5:spi_xfer	16	static
+omap3_spi.c:412:5:spi_cs_is_valid	0	static
+omap3_spi.c:417:6:spi_cs_activate	0	static
+omap3_spi.c:421:6:spi_cs_deactivate	0	static

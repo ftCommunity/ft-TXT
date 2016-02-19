@@ -1,0 +1,2 @@
+cmd_fs.c:23:5:do_load_wrapper	16	static
+cmd_fs.c:40:5:do_ls_wrapper	16	static

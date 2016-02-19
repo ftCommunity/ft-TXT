@@ -1,0 +1,6 @@
+boot-common.c:20:6:save_omap_boot_params	0	static
+boot-common.c:61:5:spl_boot_device	0	static
+boot-common.c:66:5:spl_boot_mode	0	static
+boot-common.c:71:6:spl_board_init	8	static
+boot-common.c:84:5:board_mmc_init	16	static
+boot-common.c:98:17:jump_to_image_no_args	8	static

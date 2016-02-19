@@ -1,0 +1,10 @@
+cmd_nvedit.c:210:12:_do_env_set.isra.0	72	static
+cmd_nvedit.c:69:5:get_env_id	0	static
+cmd_nvedit.c:284:5:setenv	24	static
+cmd_nvedit.c:305:5:setenv_ulong	8	static
+cmd_nvedit.c:320:5:setenv_hex	32	static
+cmd_nvedit.c:713:5:envmatch	24	static
+cmd_nvedit.c:632:5:getenv_f	32	static
+cmd_nvedit.c:608:7:getenv	48	static
+cmd_nvedit.c:328:7:getenv_hex	24	static
+cmd_nvedit.c:676:7:getenv_ulong	16	static

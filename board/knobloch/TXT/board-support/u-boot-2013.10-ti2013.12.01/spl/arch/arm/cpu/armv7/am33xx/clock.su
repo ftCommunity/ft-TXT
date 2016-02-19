@@ -1,0 +1,3 @@
+clock.c:73:6:do_setup_dpll	16	static
+clock.c:156:6:do_enable_clocks	16	static
+clock.c:175:6:prcm_init	16	static

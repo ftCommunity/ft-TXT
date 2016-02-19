@@ -1,0 +1,17 @@
+lprops.c:38:12:get_heap_comp_val	0	static
+lprops.c:62:13:move_up_lpt_heap.isra.2	40	static
+lprops.c:99:13:adjust_lpt_heap.isra.3	48	static
+lprops.c:226:13:remove_from_lpt_heap.isra.4	8	static
+lprops.c:275:6:ubifs_add_to_cat	40	static
+lprops.c:349:6:ubifs_replace_cat	0	static
+lprops.c:404:5:ubifs_categorize_lprops	4	static
+lprops.c:381:6:ubifs_ensure_cat	16	static
+lprops.c:531:28:ubifs_change_lp	32	static
+lprops.c:638:6:ubifs_get_lp_stats	0	static
+lprops.c:660:5:ubifs_change_one_lp	24	static
+lprops.c:696:5:ubifs_update_one_lp	24	static
+lprops.c:730:5:ubifs_read_one_lp	8	static
+lprops.c:757:28:ubifs_fast_find_free	0	static
+lprops.c:781:28:ubifs_fast_find_empty	0	static
+lprops.c:804:28:ubifs_fast_find_freeable	0	static
+lprops.c:828:28:ubifs_fast_find_frdi_idx	0	static

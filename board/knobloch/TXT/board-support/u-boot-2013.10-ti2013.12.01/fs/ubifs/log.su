@@ -1,0 +1,2 @@
+log.c:40:19:ubifs_search_bud	0	static
+log.c:67:6:ubifs_add_bud	16	static

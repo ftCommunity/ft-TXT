@@ -1,0 +1,12 @@
+kapi.c:28:5:ubi_get_device_info	8	static
+kapi.c:55:6:ubi_get_volume_info	12	static
+kapi.c:256:6:ubi_close_volume	8	static
+kapi.c:94:25:ubi_open_volume	24	static
+kapi.c:203:25:ubi_open_volume_nm	32	static
+kapi.c:311:5:ubi_leb_read	40	static
+kapi.c:376:5:ubi_leb_write	40	static
+kapi.c:426:5:ubi_leb_change	24	static
+kapi.c:471:5:ubi_leb_erase	8	static
+kapi.c:532:5:ubi_leb_unmap	0	static
+kapi.c:569:5:ubi_leb_map	24	static
+kapi.c:612:5:ubi_is_mapped	0	static

@@ -1,0 +1,4 @@
+nand_util.c:406:12:check_skip_len	40	static
+nand_util.c:49:5:nand_erase_opts	208	static
+nand_util.c:487:5:nand_write_skip_bad	80	static
+nand_util.c:660:5:nand_read_skip_bad	80	static
