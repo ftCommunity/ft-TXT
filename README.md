@@ -1,14 +1,14 @@
 FT-TXT
 ======
 
-This is the open source part of the [TXT Controller Open Source Archive](http://www.fischertechnik.de/ResourceImage.aspx?raid=8400).
+This is the open source part of the [TXT Controller Open Source Archive](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/txt-controller/documents/07-txt-open-source-archiv.ashx).
 
 Currently missing is the whole ```board/knobloch/TXT/rootfs``` tree from that archive due to unknown licensing.
 
 Build everything
 ----------------
 
-Download the [TXT Controller Open Source Archive](http://www.fischertechnik.de/ResourceImage.aspx?raid=8400) and copy its ```board/knobloch/TXT/rootfs``` tree into the matching part of your branch of this repository.
+Download the [TXT Controller Open Source Archive](https://www.fischertechnik.de/-/media/fischertechnik/fite/service/downloads/robotics/txt-controller/documents/07-txt-open-source-archiv.ashx) and copy its ```board/knobloch/TXT/rootfs``` tree into the matching part of your branch of this repository.
 
 Then type
 ```
